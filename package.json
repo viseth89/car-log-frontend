@@ -1,0 +1,19 @@
+{
+  "name": "car-log-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viseth89/car-log-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viseth89/car-log-frontend/issues"
+  },
+  "homepage": "https://github.com/viseth89/car-log-frontend#readme"
+}
